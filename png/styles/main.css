@@ -1,0 +1,41 @@
+﻿body {
+font-family: 'Raleway', Serif;
+}
+
+.prototype{
+	width: 400px
+}
+.png-image{
+	height :340px;
+	background-image :url(http://putujmojeftino.com/wp-content/uploads/2015/07/Pattaya-pla%C5%BEa-beach-Thailand.jpg);
+	background-repeat : no-repeat;
+	background-position : center center;
+	background-size : cover;
+	}
+
+.png-info{
+	text-align : center;
+	padding : 35px;
+}
+
+.png-pretitle {
+	font-size: 11px;
+	letter-spacing : 3px;
+	color : grey;
+	font-weight : bold;
+}
+.png-title{
+	font-size : 40px;
+	font-weight : bold;
+	padding-top : 20px;
+	line-height : 52px;
+}
+
+.png-text{
+	padding : 10px ;
+	line-height :  27px;
+	color : grey;
+	font-weight : bold;
+}
+	
+	

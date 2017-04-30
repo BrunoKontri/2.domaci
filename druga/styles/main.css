@@ -1,0 +1,92 @@
+﻿body{
+	font-family: 'Lato', sans-serif;
+	background: linear-gradient(to top, #F8F8FF 55%, #FFFFFF 50%)
+}
+
+
+.bar-icon{
+	width:15px;
+    height:15px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: inline-block;
+    background-image: url("menu.jpg");
+	float : left ;
+	margin-right : 3px;	
+}
+
+.MainTitle{
+	font-size : 35px;
+	font-weight : bold;
+}
+
+.Subtitle{
+	font-size: 12px;
+	font-weight : bold;
+	color : dimgrey;
+}
+
+.bar-menu{
+	float : left;
+	margin : 0px 570px 0px 0px;
+}
+.bar-text{
+	float : center;
+	display : inline-block ;
+	color : grey;
+}
+.bar-button{
+	float : right;
+	display : inline-block ;
+	padding : 7px ;
+	border : 3px solid tomato;
+	border-radius :24px;
+	font-size : 14px;
+	text-decoration : none;
+	font-weight : bold;
+	border-spacing: 100px,100px;  
+	border-collapse: separate;
+}
+.title{
+	text-align : center;
+	padding-top: 100px;
+	padding-bottom: 150px;
+}
+
+.info{
+	text-align : center;
+}
+
+.subtext {
+	font-size : 10px;
+	padding-bottom : 10px;
+	color :lightgrey;
+}
+
+.BeforeText{
+	padding-bottom : 20px;
+	color : dimgrey ;
+	font-weight : bold; 
+}
+.photo{
+	background-image :url(http://img.gawkerassets.com/img/17zu2gfnt1cf5jpg/original.jpg) ;
+	height : 150px ;
+	width : 550px;
+	background-position : center center ;
+	background-repeat : no-repeat;	
+	background-size : cover ;
+	margin-left: 475px
+}
+
+.text{
+	font-size : 10px ;
+	padding-top: 20px;
+	line-height : 17px;
+	color : grey ;
+	font-weight : bold;
+}
+
+.dots{
+	font-size : 25px;
+}
